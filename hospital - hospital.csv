@@ -1,0 +1,21 @@
+hospital_id,hospital_name,hospital_type,location,phone,email
+111,Max,Multispeciality,Mumbai,2236548,mumbai@max.com
+112,Apollo,Multispeciality,Delhi,2265872,service@apollo.com
+113,Mega eye care,Eye care,Pune,2658944,eyecare@mega.com
+114,SRMS,Multispeciality,Delhi,2569875,info@srms.com
+115,Max,Multispeciality,Delhi,2269754,delhi@max.com
+116,Apollo Child Care,Pediatric,Mumbai,2254686,childcare@apollo.com
+117,Ganga Ram ,Multispeciality,Delhi,2120846,service@gangaram.com
+118,Centre for Sight,Eye care,Delhi,2146088,service@cfs.com
+119,Apollo,Multispeciality,Pune,2365897,service.pune@apollo.com
+120,Fortis,Multispeciality,Bengaluru,2247568,serviceben@fortis.com
+121,Wedowee,Cancer,Pune,2523784,wedowee@cancer.com
+122,Fortis,Multispeciality,Chennai,2256978,chennai.fortis@fortis.com
+123,Kokilaben Dhirubhai Ambani,Multispeciality,Mumbai,2213452,kkda@yahoo.com
+124,Jain Hospital,Orthopaedic,Chennai,2587975,care@jainhospital.com
+125,Rainbow,Pediatric,Chennai,6387656,rainbowinfo@hospital.com 
+126,Krishna,Pediatric,Delhi,6667025,krishna@info.com
+127,Cancer Hospital,Cancer,Bengaluru,2223354,wecare@cancerbglr.com
+128,Sitaraman's Child Care,Pediatric,Jaipur,2854774,childcare@sitaraman.com
+129,Fortis,Multispeciality,Jaipur,2060753,servicejpr@fortis.com
+130,Apex Citi Hospital,Cancer,Delhi,2237480,service@apx.com

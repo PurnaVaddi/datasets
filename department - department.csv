@@ -1,0 +1,21 @@
+dept_id,dept_name,dept_manager,hospital_id
+1001,Eyecare,Padmanabha Sinha,111
+1002,ICU,Mandeep Singh,112
+1003,OPD,Manan Vohra,113
+1004,Radiology,Ruturaj G,114
+1005,General Ward,Devdutt P,111
+1006,Radiology,Sandeep Patil,111
+1007,Trauma Care,Rahul Sharma,117
+1008,Cardiology,Manoj Gupta,118
+1009,ICU,Ria Jaiswal,117
+1010,OPD,Pranav Bhatnagar,118
+1011,Cardiology,Meena Tahiliani,121
+1012,General Ward,Kapil Dev,122
+1013,General Ward,Tulsi Chaddha,112
+1014,Trauma Care,Ram Kapoor,113
+1015,Dermatology,Chintan Fadnavis,115
+1016,Cardiology,Bineet Patel,119
+1017,Trauma Care,Sachin Arora,120
+1018,Radiology,Ritwik Handa,124
+1019,X-ray,Wridhiman Gupta,116
+1020,OPD,Ram Patil,127

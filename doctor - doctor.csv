@@ -1,0 +1,21 @@
+doctor_id,first_name,last_name,gender,phone,email,specialisation,years_of_experience
+201,Vinay,Gupta,Male,9888417236,vg12@gmail.com,dermatologist,7
+202,Srishti,Reddy,Female,9997981888,shristi@yahoo.com,paediatrician,11
+203,Nitish,Aggarwal,Male ,7894561230,nits@yahoo.com,cardiologist,8
+204,Vandana,Sarabhai,Female,7985641230,vandana14@rediffmail.com,physician,6
+205,Rakesh,Mehta,Male,9854763210,mehtarakesh@gmail.com,psychiatrist,16
+206,Raj ,Arora,Male,9023145678,raja@gmail.com,cardiologist,20
+207,Raveena,Sharma,Female,8569741233,ravesh@rediffmail.com,opthalmologist,16
+208,Arnav,Agarwal,Male,8564793210,arnav23@gmail.com,physician,24
+209,Pawani,Gupta,Female,8012365479,pawani111@gmail.com,neurologist,15
+210,Ravindra,Singh,Male ,7562490123,ravindra.singh@gmail.com,physician,6
+211,Anand,Solanki,Male ,9856321470,anand.solanki@gmail.com,psychiatrist,8
+212,Jyoti ,Jain,Female,8562476321,jyoti.jain@gmail.com,gynaecologist,12
+213,Surabhi,Yadav,Female,9856321054,surabhi.yadav@gmail.com,generalsurgeon,14
+214,Varsha,Bollama,Female,6589745213,varsha.Bollama@gmail.com,gynaecologist,12
+215,Raja,Ravinder,Male ,8564236571,raja.ravinder@gmail.com,gynaecologist,5
+216,Geeta,Sharma,Female,8965470123,geeta.sharma@gmail.com,orthopedics,15
+217,Rahul,Varma,Male,6589745123,Rahul.Varma@gmail.com,cardiologist,11
+218,Rani,Gupta,Female,9988271981,rani.gupta@gmail.com,paediatrician,4
+219,Vaibhav,Singh,Male ,9988268103,vaibhav.singh@gmail.com,neurologist,6
+220,Spurthi,Kapoor,Female,7856940123,spurthi.kapoor@gmail.com,cardiologist,10

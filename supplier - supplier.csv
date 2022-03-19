@@ -1,0 +1,9 @@
+supplier_id,supplier_company,phone,email,location
+400001,MedLife ,7896542301,medsupply@medlife.com,Delhi
+400002,Apollo Pharmacy,8974560123,medcare@apollo.com,Pune
+400003,Lilly,8563214970,medwin@lilly.com,Mumbai
+400004,Dr Reddys,9897552266,med@reddys.com,Delhi
+400005,Henry Schein,9888475623,med@henryschien.com,Bangalore
+400006,Cipla,6859745222,med@cipla.com,Jaipur
+400007,Zydus,8974563215,med@zydus.com,Mumbai
+400008,Sun Pharma,8965412722,med@sunpharma.com,Bangalore

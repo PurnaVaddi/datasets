@@ -1,0 +1,21 @@
+emp_id,first_name,last_name,gender,age,location,phone,email,dept_id
+5001,Anant,Sharma,Male,28,Mumbai,9012365478,anant.sharma1@gmail.com,1001
+5002,Chetna,Goel,Female,28,Bengaluru,8970145632,chetna1234@gmail.com,1002
+5003,Vinay,Huda,Male,28,Pune,8745693210,"huda,vinay@gmail.com",1003
+5004,Deepanshi,Gupta,Female,28,Delhi,9852147630,deepanshi.589@gmail.com,1004
+5005,Sachin,Raina,Male,28,Mumbai,9014785236,sachin.raina035@gmail.com,1005
+5006,Shanaya,Chauhan,Female,28,Mumbai,8745213604,Chauhan.sh23@gmai.com,1006
+5007,RK,Chadda,Male,28,Delhi,8886554712,chadda.rk123@gmail.com,1001
+5008,Deepak,Chahar,Male,28,Jaipur,8563214970,deepak.chahar@gmail.com,1003
+5009,Dhanasree,Varma,Female,28,Pune,8012347964,varma.dhanashree@gmail.com,1008
+5010,Umesh,Yadav,Male,28,Mumbai,7569841023,umesh.yadav@gmail.com,1015
+5011,Ananya,Malhotra,Female,28,Pune,7698452214,ananyamalhotra@gmail.com,1016
+5012,Rahul,Ravindran,Male,28,Chennai,8569430127,rahul.ravindran@gmail.com,1012
+5013,Sunny,Choudary,Male,28,Mumbai,8701259435,sunny.choudary@gmail.com,1011
+5014,Pradeep ,Narwal,Male,28,Delhi,9856377412,pradeep.narwal@gmail.com,1001
+5015,Virat,Singh,Male,28,Chennai,7896540123,virat12@gmail.com,1018
+5016,Sachin,Kohli,Male,28,Delhi,7012365489,kohlisachin@gmail.com,1007
+5017,Deepak,Hooda ,Male,28,Bengaluru,6589741230,deephooda14@gmail.com,1013
+5018,Sara,Tendulkar,Female,28,Jaipur,8563214973,sara1995@gmail.com,1009
+5019,Ankita,Mishra,Female,28,Chennai,8562241309,ankitamishra@gmail.com,1009
+5020,Anuskha,Shetty,Female,28,Mumbai,8965470123,anushetty@gmail.com,1020

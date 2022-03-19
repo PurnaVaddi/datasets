@@ -1,0 +1,15 @@
+emp_id,lab_no,lab_name,patient_id,test_id,patient_weight,patient_height,report_id,test_result
+5003,2,X-Ray Lab,110001,6001,56,152,3200,Normal
+5005,7,Molecular Lab,110003,6002,65,185,3201,High
+5007,4,MRI Lab,110005,6003,72,165,3202,High
+5008,3,Color Doppler ,110016,6004,66,154,3203,Normal
+5009,6,Sonography Lab,110007,6005,85,175,3204,Normal
+5006,6,Mammography Lab,110009,6001,74,198,3205,Normal
+5002,7,Histopathology Lab,110002,6002,65,156,3206,Normal
+5012,7,Molecular Lab,110019,6003,69,189,3207,Normal
+5015,7,Allergy Testing,110014,6004,85,189,3208,High
+5002,4,MRI Lab,110013,6005,45,145,3209,Low
+5007,5,CT Scan Lab,110015,6001,85,198,3210,Low
+5004,6,Radiology,110017,6002,52,156,3211,Low
+5005,4,MRI Lab,110020,6003,54,154,3212,Normal
+5005,2,X-Ray Lab,110018,6004,75,186,3213,Normal

@@ -1,0 +1,16 @@
+med_id,med_name,med_type,med_cost,company,quantity,supplier_id
+11,Unienzyme,Digestion,100,Alkem Laboratories Ltd,400,400001
+12,Montair LC,Cold and Infection,125,Cipla Ltd,500,400002
+13,Favipiravir,Covid,250,Sun Pharma,5000,400003
+14,Glucoryl-M,Diabetes,349,Intas Pharmaceuticals Ltd,785,400004
+15,T-Glip M,Blood Pressure,121,Intas Pharmaceuticals Ltd,321,400001
+16,Azicip,Throat,99,Cipla Ltd,452,400001
+17,Dolo-650,Fever and Body Pain,10,Micro Labs Ltd,10000,400002
+18,Sporlac,Stomach,110,Sanzyme Pvt Ltd,584,400004
+19,Augmentin-500,Cold and Infection,350,Alkem Laboratories Ltd,236,400001
+20,Glycomet,Stomach,299,USV Pvt Ltd,1245,400002
+21,Meganeuron,Antibiotic,450,Lilly Pharmaceuticals,110,400004
+22,Ivermectin,Covid,120,Alkem Laboratories Ltd,1256,400005
+23,zenflox,Antibiotic,58,Abott Ltd,4512,400001
+24,Limcee,Vitamin C,40,Sanzyme Pvt Ltd,441,400007
+25,Zincovit,Vitamin C,110,Cipla Ltd,1023,400005

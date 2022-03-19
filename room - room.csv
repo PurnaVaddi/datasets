@@ -1,0 +1,21 @@
+room_id,room_type,price,status,hospital_id
+7800,Ac Double Sharing,4500,Vacant,111
+7801,Non Ac Double Sharing,2600,Vacant,112
+7802,Ac Double Sharing,4750,Full,113
+7803,Non Ac Double Sharing,2500,Full,114
+7804,Non Ac Single Sharing,2800,Full,115
+7805,Non Ac Triple Sharing,1400,Full,111
+7806,Non Ac Double Sharing,1500,Vacant,117
+7807,Ac single Sharing,5200,Full,117
+7808,Non Ac Single Sharing,3200,Full,119
+7809,Ac single Sharing,4600,Full,112
+7810,General Ward,1100,Vacant,112
+7811,Ac Double Sharing,2000,Vacant,122
+7812,Non Ac Double Sharing,1200,Vacant,122
+7813,Ac Double Sharing,1800,Vacant,124
+7814,General ward,1000,Full,124
+7815,Non Ac Triple Sharing,1100,Vacant,113
+7816,General Ward,1000,Full,127
+7817,General Ward,1000,Vacant,128
+7818,Ac single Sharing,2500,Full,117
+7819,Non Ac Double Sharing,1250,Vacant,128
